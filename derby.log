@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 26 02:47:49 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018a-ce34-9b44-00000cd31fd8 
+on database directory memory:C:\Users\jatis\Desktop\workspace\HotelBookingSystem\87853bd6-3c20-4c76-8489-3cb563365bde with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jatis/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\jatis\Desktop\workspace\HotelBookingSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
